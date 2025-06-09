@@ -16,5 +16,3 @@ public class Class1
 		Value = false;
 	}
 }
-
-// Union<int, bool, string>

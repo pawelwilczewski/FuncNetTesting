@@ -14,3 +14,4 @@ Class1.Value = Union<int, string>.FromT0(43);
 Class1.Value = Union<int, bool, string>.FromT0(43);
 
 Union<int, bool, string> test = Union<bool, int, string>.FromT2("hello");
+Union<int, string, bool, DateTime> test2 = test;
