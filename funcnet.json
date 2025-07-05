@@ -1,0 +1,11 @@
+{
+  "TypeRegistrations": [
+    "bool,string,float,double,int,uint",
+    "int,bool,string",
+    "int,string,bool,DateTime",
+    "bool,int,string",
+    "string,int",
+    "int,string",
+    "int,string,bool"
+  ]
+}

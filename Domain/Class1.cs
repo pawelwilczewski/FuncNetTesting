@@ -14,5 +14,6 @@ public class Class1
 		Value = 43;
 		Value = Union<bool, int, string>.FromT1(32);
 		Value = false;
+		var abc = Union<bool, string, float, double, int, uint>.FromT0(true);
 	}
 }
