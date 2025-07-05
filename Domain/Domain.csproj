@@ -7,11 +7,11 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="FuncNet" Version="0.3.61-g92c8909cba">
+      <PackageReference Include="FuncNet" Version="0.3.63-gaab427ceae">
         <PrivateAssets>all</PrivateAssets>
         <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
       </PackageReference>
-      <PackageReference Include="FuncNet.Analyzers" Version="0.3.61-g92c8909cba" />
+      <PackageReference Include="FuncNet.Analyzers" Version="0.3.63-gaab427ceae" />
     </ItemGroup>
 
     <ItemGroup>
