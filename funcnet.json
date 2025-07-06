@@ -1,14 +1,11 @@
 {
   "GenericsRegistrations": [
-    "int,bool,string",
     "bool,int,string",
     "bool,string,float,double,int,uint",
-    "string,int",
-    "int,string,bool",
+    "int,bool,string",
     "int,string",
-    "int, string, bool, DateTime",
-    "bool, int, string",
-    "int, bool, string",
-    "int, string"
+    "int,string,bool",
+    "int,string,bool,DateTime",
+    "string,int"
   ]
 }
